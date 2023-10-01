@@ -1,0 +1,450 @@
+Sr. No.,State,City,Station Name,Current_AQI_value
+1,Andhra Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",59
+2,Andhra Pradesh,Anantapur,"Gulzarpet, Anantapur - APPCB",66
+3,Andhra Pradesh,Chittoor,"Gangineni Cheruvu, Chittoor - APPCB",67
+4,Andhra Pradesh,Kadapa,"Yerramukkapalli, Kadapa - APPCB",Insufficient data available in last 24 hours.
+5,Andhra Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",78
+6,Andhra Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",75
+7,Andhra Pradesh,Tirupati,"Vaikuntapuram, Tirupati - APPCB",Insufficient data available in last 24 hours.
+8,Andhra Pradesh,Vijayawada,"Kanuru, Vijayawada - APPCB",Insufficient data available in last 24 hours.
+9,Andhra Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",118
+10,Arunachal Pradesh,Naharlagun,"Naharlagun, Naharlagun - APSPCB",36
+11,Assam,Byrnihat,"Central Academy for SFS, Byrnihat - PCBA",Insufficient data available in last 24 hours.
+12,Assam,Guwahati,"IITG, Guwahati - PCBA",74
+13,Assam,Guwahati,"LGBI Airport, Guwahati - PCBA",99
+14,Assam,Guwahati,"Pan Bazaar, Guwahati - PCBA",66
+15,Assam,Guwahati,"Railway Colony, Guwahati - PCBA",71
+16,Assam,Nagaon,"Christianpatty, Nagaon - PCBA",99
+17,Assam,Nalbari,"Bata Chowk, Nalbari - PCBA",79
+18,Assam,Silchar,"Tarapur, Silchar - PCBA",62
+19,Assam,Sivasagar,"Girls College, Sivasagar - PCBA",49
+20,Bihar,Araria,"Kharahiya Basti, Araria - BSPCB",244
+21,Bihar,Arrah,"New DM Office, Arrah - BSPCB",161
+22,Bihar,Aurangabad,"Gurdeo Nagar, Aurangabad - BSPCB",116
+23,Bihar,Begusarai,"DRCC Anandpur, Begusarai - BSPCB",333
+24,Bihar,Bettiah,"Kamalnath Nagar, Bettiah - BSPCB",Insufficient data available in last 24 hours.
+25,Bihar,Bhagalpur,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",211
+26,Bihar,Bhagalpur,"Mayaganj, Bhagalpur - BSPCB",239
+27,Bihar,Bihar Sharif,"D M Colony, Bihar Sharif - BSPCB",97
+28,Bihar,Buxar,"Central Jail, Buxar - BSPCB",Insufficient data available in last 24 hours.
+29,Bihar,Chhapra,"Darshan Nagar, Chhapra - BSPCB",Insufficient data available in last 24 hours.
+30,Bihar,Darbhanga,"Town Hall - Lal Bagh, Darbhanga - BSPCB",Insufficient data available in last 24 hours.
+31,Bihar,Gaya,"Collectorate, Gaya - BSPCB",103
+32,Bihar,Gaya,"Kareemganj, Gaya - BSPCB",163
+33,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB",72
+34,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB",237
+35,Bihar,Katihar,"Mirchaibari, Katihar - BSPCB",212
+36,Bihar,Kishanganj,"SDM Office_Khagra, Kishanganj - BSPCB",129
+37,Bihar,Manguraha,"Forest Rest House, Manguraha - BSPCB",149
+38,Bihar,Motihari,"Gandak Colony, Motihari - BSPCB",Insufficient data available in last 24 hours.
+39,Bihar,Munger,"Town Hall, Munger - BSPCB",255
+40,Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB",264
+41,Bihar,Muzaffarpur,"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",Insufficient data available in last 24 hours.
+42,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",204
+43,Bihar,Patna,"DRM Office Danapur, Patna - BSPCB",230
+44,Bihar,Patna,"Govt. High School Shikarpur, Patna - BSPCB",263
+45,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",213
+46,Bihar,Patna,"Muradpur, Patna - BSPCB",421
+47,Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB",254
+48,Bihar,Patna,"Samanpura, Patna - BSPCB",288
+49,Bihar,Purnia,"Mariam Nagar, Purnia - BSPCB",127
+50,Bihar,Rajgir,"Dangi Tola, Rajgir - BSPCB",115
+51,Bihar,Saharsa,"Police Line, Saharsa - BSPCB",185
+52,Bihar,Samastipur,"DM Office_Kasipur, Samastipur - BSPCB",234
+53,Bihar,Sasaram,"Dada Peer, Sasaram - BSPCB",105
+54,Bihar,Siwan,"Chitragupta Nagar, Siwan - BSPCB",315
+55,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",173
+56,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",140
+57,Chandigarh,Chandigarh,"Sector-53, Chandigarh - CPCC",103
+58,Chhattisgarh,Bhilai,"32Bungalows, Bhilai - CECB",48
+59,Chhattisgarh,Bhilai,"Civic Center, Bhilai - Bhilai Steel Plant",Insufficient data available in last 24 hours.
+60,Chhattisgarh,Bhilai,"Hathkhoj, Bhilai - CECB",84
+61,Chhattisgarh,Bilaspur,"Mangala, Bilaspur - NTPC",120
+62,Chhattisgarh,Chhal,"Nawapara SECL Colony, Chhal - CECB",225
+63,Chhattisgarh,Korba,"Rampur, Korba - CECB",158
+64,Chhattisgarh,Korba,"Urja Nagar, Korba - CECB",Insufficient data available in last 24 hours.
+65,Chhattisgarh,Kunjemura,"OP Jindal School, Kunjemura - CECB",Insufficient data available in last 24 hours.
+66,Chhattisgarh,Milupara,"Govt. Higher Secondary School, Milupara - CECB",84
+67,Chhattisgarh,Raipur,"AIIMS, Raipur - CECB",76
+68,Chhattisgarh,Raipur,"Bhatagaon New ISBT, Raipur - CECB",92
+69,Chhattisgarh,Raipur,"Krishak Nagar, Raipur - CECB",91
+70,Chhattisgarh,Raipur,"Siltara Phase-II, Raipur - CECB",151
+71,Chhattisgarh,Tumidih,"OP Jindal Industrial Park, Tumidih - CECB",234
+72,Delhi,Delhi,"Alipur, Delhi - DPCC",289
+73,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",322
+74,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",244
+75,Delhi,Delhi,"Aya Nagar, Delhi - IMD",229
+76,Delhi,Delhi,"Bawana, Delhi - DPCC",275
+77,Delhi,Delhi,"Burari Crossing, Delhi - IMD",227
+78,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",281
+79,Delhi,Delhi,"Chandni Chowk, Delhi - IITM",Insufficient data available in last 24 hours.
+80,Delhi,Delhi,"DTU, Delhi - CPCB",230
+81,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",229
+82,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",242
+83,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",149
+84,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",Insufficient data available in last 24 hours.
+85,Delhi,Delhi,"ITO, Delhi - CPCB",Insufficient data available in last 24 hours.
+86,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",283
+87,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",241
+88,Delhi,Delhi,"Lodhi Road, Delhi - IITM",Insufficient data available in last 24 hours.
+89,Delhi,Delhi,"Lodhi Road, Delhi - IMD",208
+90,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",242
+91,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",233
+92,Delhi,Delhi,"Mundka, Delhi - DPCC",275
+93,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",244
+94,Delhi,Delhi,"Najafgarh, Delhi - DPCC",211
+95,Delhi,Delhi,"Narela, Delhi - DPCC",295
+96,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",277
+97,Delhi,Delhi,"North Campus, DU, Delhi - IMD",Insufficient data available in last 24 hours.
+98,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",276
+99,Delhi,Delhi,"Patparganj, Delhi - DPCC",284
+100,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",287
+101,Delhi,Delhi,"Pusa, Delhi - DPCC",231
+102,Delhi,Delhi,"Pusa, Delhi - IMD",194
+103,Delhi,Delhi,"R K Puram, Delhi - DPCC",251
+104,Delhi,Delhi,"Rohini, Delhi - DPCC",264
+105,Delhi,Delhi,"Shadipur, Delhi - CPCB",351
+106,Delhi,Delhi,"Sirifort, Delhi - CPCB",246
+107,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",276
+108,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",226
+109,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",276
+110,Delhi,Delhi,"Wazirpur, Delhi - DPCC",289
+111,Gujarat,Ahmedabad,"Chandkheda, Ahmedabad - IITM",73
+112,Gujarat,Ahmedabad,"Gyaspur, Ahmedabad - IITM",Insufficient data available in last 24 hours.
+113,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",84
+114,Gujarat,Ahmedabad,"Raikhad, Ahmedabad - IITM",215
+115,Gujarat,Ahmedabad,"Rakhial, Ahmedabad - IITM",103
+116,Gujarat,Ahmedabad,"SAC ISRO Bopal, Ahmedabad - IITM",124
+117,Gujarat,Ahmedabad,"SAC ISRO Satellite, Ahmedabad - IITM",111
+118,Gujarat,Ahmedabad,"SVPI Airport Hansol, Ahmedabad - IITM",Insufficient data available in last 24 hours.
+119,Gujarat,Ahmedabad,"Sardar Vallabhbhai Patel Stadium, Ahmedabad - IITM",94
+120,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",79
+121,Gujarat,Gandhinagar,"GIFT City, Gandhinagar - IITM",79
+122,Gujarat,Gandhinagar,"IIPHG Lekawada, Gandhinagar - IITM",88
+123,Gujarat,Gandhinagar,"Sector-10, Gandhinagar - GPCB",55
+124,Gujarat,Nandesari,"GIDC, Nandesari - Nandesari Ind. Association",Insufficient data available in last 24 hours.
+125,Gujarat,Surat,"Science Center, Surat - SMC",110
+126,Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",Insufficient data available in last 24 hours.
+127,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",92
+128,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",112
+129,Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",200
+130,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",Insufficient data available in last 24 hours.
+131,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",204
+132,Haryana,Charkhi Dadri,"Mini Secretariat, Charkhi Dadri - HSPCB",195
+133,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",170
+134,Haryana,Faridabad,"New Industrial Town, Faridabad - HSPCB",137
+135,Haryana,Faridabad,"Sector 11, Faridabad - HSPCB",203
+136,Haryana,Faridabad,"Sector 30, Faridabad - HSPCB",307
+137,Haryana,Faridabad,"Sector- 16A, Faridabad - HSPCB",Insufficient data available in last 24 hours.
+138,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",153
+139,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",Insufficient data available in last 24 hours.
+140,Haryana,Gurugram,"Sector-51, Gurugram - HSPCB",235
+141,Haryana,Gurugram,"Teri Gram, Gurugram - HSPCB",201
+142,Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB",191
+143,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",Insufficient data available in last 24 hours.
+144,Haryana,Jind,"Police Lines, Jind - HSPCB",95
+145,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",Insufficient data available in last 24 hours.
+146,Haryana,Karnal,"Sector-12, Karnal - HSPCB",98
+147,Haryana,Kurukshetra ,"Sector-7, Kurukshetra - HSPCB",136
+148,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",Insufficient data available in last 24 hours.
+149,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",224
+150,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",131
+151,Haryana,Palwal ,"Shyam Nagar, Palwal - HSPCB",74
+152,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",121
+153,Haryana,Panipat,"Sector-18, Panipat - HSPCB",180
+154,Haryana,Rohtak,"MD University, Rohtak - HSPCB",168
+155,Haryana,Sirsa,"F-Block, Sirsa - HSPCB",101
+156,Haryana,Sonipat,"Murthal, Sonipat - HSPCB",126
+157,Haryana,Yamuna Nagar,"Gobind Pura, Yamuna Nagar - HSPCB",124
+158,Himachal Pradesh,Baddi,"HIMUDA Complex Phase-1, Baddi - HPPCB",172
+159,Jammu and Kashmir,Srinagar,"Rajbagh, Srinagar - JKSPCB",86
+160,Jharkhand,Dhanbad,"Sardar Patel Nagar, Dhanbad - JSPCB",160
+161,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",170
+162,Karnataka,Bagalkot,"Vidayagiri, Bagalkot - KSPCB",42
+163,Karnataka,Belgaum,"Ramteerth Nagar, Belgaum - KSPCB",74
+164,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",67
+165,Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",Insufficient data available in last 24 hours.
+166,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",Insufficient data available in last 24 hours.
+167,Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",101
+168,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",133
+169,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",99
+170,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",117
+171,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",107
+172,Karnataka,Bengaluru,"RVCE-Mailasandra, Bengaluru - KSPCB",Insufficient data available in last 24 hours.
+173,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",59
+174,Karnataka,Bengaluru,"Shivapura_Peenya, Bengaluru - KSPCB",150
+175,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",132
+176,Karnataka,Bidar,"Naubad, Bidar - KSPCB",112
+177,Karnataka,Chamarajanagar,"Urban, Chamarajanagar - KSPCB",42
+178,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",153
+179,Karnataka,Chikkamagaluru,"Kalyana Nagara, Chikkamagaluru - KSPCB",48
+180,Karnataka,Davanagere,"Devaraj Urs Badavane, Davanagere - KSPCB",Insufficient data available in last 24 hours.
+181,Karnataka,Dharwad,"Kalabhavan, Dharwad - KSPCB",Insufficient data available in last 24 hours.
+182,Karnataka,Gadag,"Panchal Nagar, Gadag - KSPCB",Insufficient data available in last 24 hours.
+183,Karnataka,Hassan,"B.Katihalli, Hassan - KSPCB",104
+184,Karnataka,Haveri,"Ashwini Nagar, Haveri - KSPCB",69
+185,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",Insufficient data available in last 24 hours.
+186,Karnataka,Hubballi,"Lingaraj Nagar, Hubballi - KSPCB",108
+187,Karnataka,Kalaburagi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",98
+188,Karnataka,Kalaburagi,"Mahatma Basaveswar Colony, Kalaburgi - KSPCB",Insufficient data available in last 24 hours.
+189,Karnataka,Kolar,"Tamaka Ind. Area, Kolar - KSPCB",98
+190,Karnataka,Koppal,"Diwator Nagar, Koppal - KSPCB",81
+191,Karnataka,Madikeri,"Stuart Hill, Madikeri - KSPCB",37
+192,Karnataka,Mangalore,"Kadri, Mangalore - KSPCB",109
+193,Karnataka,Mysuru,"Hebbal 1st Stage, Mysuru - KSPCB",45
+194,Karnataka,Raichur,"Haji Colony, Raichur - KSPCB",118
+195,Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB",82
+196,Karnataka,Shivamogga,"Vinoba Nagara, Shivamogga - KSPCB",41
+197,Karnataka,Tumakuru,"Thimmalapura, Tumakuru - KSPCB",Insufficient data available in last 24 hours.
+198,Karnataka,Udupi,"Brahmagiri, Udupi - KSPCB",73
+199,Karnataka,Vijayapura,"Ibrahimpur, Vijayapura - KSPCB",42
+200,Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB",92
+201,Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB",Insufficient data available in last 24 hours.
+202,Kerala,Ernakulam,"Kacheripady, Ernakulam - Kerala PCB",Insufficient data available in last 24 hours.
+203,Kerala,Kannur,"Thavakkara, Kannur - Kerala PCB",Insufficient data available in last 24 hours.
+204,Kerala,Kochi,"Vyttila, Kochi - Kerala PCB",75
+205,Kerala,Kollam,"Polayathode, Kollam - Kerala PCB",66
+206,Kerala,Kozhikode,"Palayam, Kozhikode - Kerala PCB",Insufficient data available in last 24 hours.
+207,Kerala,Thiruvananthapuram,"Kariavattom, Thiruvananthapuram - Kerala PCB",79
+208,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",77
+209,Kerala,Thrissur,"Corporation Ground, Thrissur - Kerala PCB",123
+210,Madhya Pradesh,Bhopal,"Idgah Hills, Bhopal - MPPCB",99
+211,Madhya Pradesh,Bhopal,"Paryavaran Parisar, Bhopal - MPPCB",96
+212,Madhya Pradesh,Bhopal,"T T Nagar, Bhopal - MPPCB",100
+213,Madhya Pradesh,Damoh,"Shrivastav Colony, Damoh - MPPCB",Insufficient data available in last 24 hours.
+214,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",84
+215,Madhya Pradesh,Gwalior,"City Center, Gwalior - MPPCB",91
+216,Madhya Pradesh,Gwalior,"Deen Dayal Nagar, Gwalior - MPPCB",141
+217,Madhya Pradesh,Gwalior,"Maharaj Bada, Gwalior - MPPCB",126
+218,Madhya Pradesh,Gwalior,"Phool Bagh, Gwalior - Mondelez Ind. Food",Insufficient data available in last 24 hours.
+219,Madhya Pradesh,Indore,"Chhoti Gwaltoli, Indore - MPPCB",92
+220,Madhya Pradesh,Indore,"Vijay Nagar Scheme-78, Indore - Glenmark",72
+221,Madhya Pradesh,Jabalpur,"Marhatal, Jabalpur - MPPCB",117
+222,Madhya Pradesh,Katni,"Gole Bazar, Katni - MPPCB",149
+223,Madhya Pradesh,Maihar,"Sahilara, Maihar - KJS Cements",46
+224,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",118
+225,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",89
+226,Madhya Pradesh,Ratlam,"Shasthri Nagar, Ratlam - IPCA Lab",74
+227,Madhya Pradesh,Sagar,"Civil Lines, Sagar - MPPCB",85
+228,Madhya Pradesh,Sagar,"Deen Dayal Nagar, Sagar - MPPCB",Insufficient data available in last 24 hours.
+229,Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - Birla Cement",53
+230,Madhya Pradesh,Singrauli,"Suryakiran Bhawan NCL, Singrauli - MPPCB",192
+231,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",100
+232,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",101
+233,Maharashtra,Chandrapur,"Chauhan Colony, Chandrapur - MPCB",106
+234,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",Insufficient data available in last 24 hours.
+235,Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB",142
+236,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - IITM",201
+237,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",Insufficient data available in last 24 hours.
+238,Maharashtra,Mumbai,"Borivali East, Mumbai - IITM",151
+239,Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB",156
+240,Maharashtra,Mumbai,"Chakala-Andheri East, Mumbai - IITM",Insufficient data available in last 24 hours.
+241,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",145
+242,Maharashtra,Mumbai,"Colaba, Mumbai - MPCB",115
+243,Maharashtra,Mumbai,"Deonar, Mumbai - IITM",Insufficient data available in last 24 hours.
+244,Maharashtra,Mumbai,"Kandivali East, Mumbai - MPCB",170
+245,Maharashtra,Mumbai,"Khindipada-Bhandup West, Mumbai - IITM",128
+246,Maharashtra,Mumbai,"Kurla, Mumbai - MPCB",157
+247,Maharashtra,Mumbai,"Malad West, Mumbai - IITM",124
+248,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM",154
+249,Maharashtra,Mumbai,"Mulund West, Mumbai - MPCB",174
+250,Maharashtra,Mumbai,"Navy Nagar-Colaba, Mumbai - IITM",Insufficient data available in last 24 hours.
+251,Maharashtra,Mumbai,"Powai, Mumbai - MPCB",147
+252,Maharashtra,Mumbai,"Siddharth Nagar-Worli, Mumbai - IITM",102
+253,Maharashtra,Mumbai,"Sion, Mumbai - MPCB",111
+254,Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",155
+255,Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB",139
+256,Maharashtra,Mumbai,"Worli, Mumbai - MPCB",89
+257,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",105
+258,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",87
+259,Maharashtra,Navi Mumbai,"Airoli, Navi Mumbai - MPCB",Insufficient data available in last 24 hours.
+260,Maharashtra,Navi Mumbai,"Mahape, Navi Mumbai - MPCB",154
+261,Maharashtra,Navi Mumbai,"Nerul, Navi Mumbai - MPCB",Insufficient data available in last 24 hours.
+262,Maharashtra,Navi Mumbai,"Sector-19A Nerul, Navi Mumbai - IITM",Insufficient data available in last 24 hours.
+263,Maharashtra,Pune,"Alandi, Pune - IITM",Insufficient data available in last 24 hours.
+264,Maharashtra,Pune,"Bhosari, Pune - IITM",Insufficient data available in last 24 hours.
+265,Maharashtra,Pune,"Hadapsar, Pune - IITM",Insufficient data available in last 24 hours.
+266,Maharashtra,Pune,"Karve Road, Pune - MPCB",101
+267,Maharashtra,Pune,"MIT-Kothrud, Pune - IITM",Insufficient data available in last 24 hours.
+268,Maharashtra,Pune,"Mhada Colony, Pune - IITM",95
+269,Maharashtra,Pune,"Revenue Colony-Shivajinagar, Pune - IITM",249
+270,Maharashtra,Pune,"Transport Nagar-Nigdi, Pune - IITM",Insufficient data available in last 24 hours.
+271,Maharashtra,Solapur,"Solapur, Solapur - MPCB",113
+272,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",196
+273,Manipur,Imphal,"DM College of Science, Imphal - Manipur PCB",Insufficient data available in last 24 hours.
+274,Manipur,Imphal,"Manipur University, Imphal - Manipur PCB",143
+275,Meghalaya ,Shillong,"JN Stadium, Shillong - Meghalaya PCB",Insufficient data available in last 24 hours.
+276,Meghalaya ,Shillong,"Lumpyngngad, Shillong - Meghalaya PCB",94
+277,Mizoram,Aizawl,"Sikulpuikawn, Aizawl - Mizoram PCB",94
+278,Nagaland,Kohima,"PWD Juction, Kohima - NPCB",112
+279,Odisha,Baripada,"Meher Colony, Baripada - OSPCB",Insufficient data available in last 24 hours.
+280,Odisha,Bileipada,"Tata Township, Bileipada - OSPCB",184
+281,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",157
+282,Odisha,Keonjhar,"Jagamohanpur, Keonjhar - OSPCB",244
+283,Odisha,Nayagarh,"Dabuna, Nayagarh - OSPCB",255
+284,Odisha,Rairangpur,"Divisional Forest Office, Rairangpur - OSPCB",164
+285,Odisha,Rourkela,"Fertilizer Township, Rourkela - OSPCB",167
+286,Odisha,Rourkela,"Raghunathpali, Rourkela - OSPCB",322
+287,Odisha,Rourkela,"Sector-2, Rourkela - OSPCB",194
+288,Odisha,Suakati,"OMC Colony, Suakati - OSPCB",151
+289,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",Insufficient data available in last 24 hours.
+290,Odisha,Tensa,"Barsua Iron Ore Mines, Tensa - OSPCB",262
+291,Puducherry,Puducherry,"Jawahar Nagar, Puducherry - PPCC",40
+292,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",76
+293,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",103
+294,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",74
+295,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",62
+296,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",101
+297,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",74
+298,Punjab,Patiala,"Model Town, Patiala - PPCB",105
+299,Punjab,Rupnagar,"Ratanpura, Rupnagar - Ambuja Cements",80
+300,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",105
+301,Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",79
+302,Rajasthan,Banswara,"Rati Talai, Banswara - RSPCB",121
+303,Rajasthan,Barmer,"Railway Colony, Barmer - RSPCB",156
+304,Rajasthan,Bharatpur,"Krishna Nagar, Bharatpur - RSPCB",131
+305,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",241
+306,Rajasthan,Bikaner,"MM Ground, Bikaner - RSPCB",191
+307,Rajasthan,Chittorgarh,"Shastri Nagar, Chittorgarh - RSPCB",139
+308,Rajasthan,Churu,"Subash Chowk, Churu - RSPCB",150
+309,Rajasthan,Dausa,"Khatikan Mohalla, Dausa - RSPCB",167
+310,Rajasthan,Dholpur,"Raja Ganj, Dholpur - RSPCB",96
+311,Rajasthan,Hanumangarh,"Housing Board, Hanumangarh - RSPCB",226
+312,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",86
+313,Rajasthan,Jaipur,"Mansarovar Sector-12, Jaipur - RSPCB",Insufficient data available in last 24 hours.
+314,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",132
+315,Rajasthan,Jaipur,"Sector-2 Murlipura, Jaipur - RSPCB",Insufficient data available in last 24 hours.
+316,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",128
+317,Rajasthan,Jhalawar,"Rajlaxmi Nagar, Jhalawar - RSPCB",89
+318,Rajasthan,Jhunjhunu,"Indra Nagar, Jhunjhunu - RSPCB",175
+319,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",Insufficient data available in last 24 hours.
+320,Rajasthan,Jodhpur,"Jhalamand, Jodhpur - RSPCB",203
+321,Rajasthan,Jodhpur,"Samrat Ashok Udhyan, Jodhpur - RSPCB",118
+322,Rajasthan,Karauli,"Satyawati Vihar, Karauli - RSPCB",49
+323,Rajasthan,Kota,"Dhanmandi, Kota - RSPCB",133
+324,Rajasthan,Kota,"Nayapura, Kota - RSPCB",140
+325,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",144
+326,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",89
+327,Rajasthan,Pratapgarh,"Pragati Nagar, Pratapgarh - RSPCB",93
+328,Rajasthan,Rajsamand,"Dhoinda, Rajsamand - RSPCB",Insufficient data available in last 24 hours.
+329,Rajasthan,Sawai Madhopur,"Sahu Nagar, Sawai Madhopur - RSPCB",136
+330,Rajasthan,Sikar,"Radhakishan Pura, Sikar - RSPCB",132
+331,Rajasthan,Sirohi,"Vedhaynath Colony, Sirohi - RSPCB",99
+332,Rajasthan,Sri Ganganagar,"Old City, Sri Ganganagar - RSPCB",252
+333,Rajasthan,Tonk,"Shastri Nagar, Tonk - RSPCB",216
+334,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",85
+335,Sikkim,Gangtok,"Zero Point GICI, Gangtok - SSPCB",Insufficient data available in last 24 hours.
+336,Tamil Nadu,Ariyalur,"Keelapalur, Ariyalur - TNPCB",55
+337,Tamil Nadu,Chengalpattu,"Crescent University, Chengalpattu - TNPCB",92
+338,Tamil Nadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",74
+339,Tamil Nadu,Chennai,"Arumbakkam, Chennai - TNPCB",45
+340,Tamil Nadu,Chennai,"Gandhi Nagar_Ennore, Chennai - TNPCB",60
+341,Tamil Nadu,Chennai,"Kodungaiyur, Chennai - TNPCB",59
+342,Tamil Nadu,Chennai,"Manali Village, Chennai - TNPCB",Insufficient data available in last 24 hours.
+343,Tamil Nadu,Chennai,"Manali, Chennai - CPCB",69
+344,Tamil Nadu,Chennai,"Perungudi, Chennai - TNPCB",48
+345,Tamil Nadu,Chennai,"Royapuram, Chennai - TNPCB",35
+346,Tamil Nadu,Chennai,"Velachery Res. Area, Chennai - CPCB",76
+347,Tamil Nadu,Coimbatore,"PSG College of Arts and Science, Coimbatore - TNPCB",Insufficient data available in last 24 hours.
+348,Tamil Nadu,Coimbatore,"SIDCO Kurichi, Coimbatore - TNPCB",134
+349,Tamil Nadu,Cuddalore,"Kudikadu, Cuddalore - TNPCB",Insufficient data available in last 24 hours.
+350,Tamil Nadu,Cuddalore,"Semmandalam, Cuddalore - TNPCB",46
+351,Tamil Nadu,Dindigul,"Mendonsa Colony, Dindigul - TNPCB",65
+352,Tamil Nadu,Gummidipoondi,"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",79
+353,Tamil Nadu,Hosur,"SIPCOT Phase-1, Hosur - TNPCB",123
+354,Tamil Nadu,Kanchipuram,"Kilambi, Kanchipuram - TNPCB",61
+355,Tamil Nadu,Ooty,"Bombay Castel, Ooty - TNPCB",99
+356,Tamil Nadu,Ramanathapuram,"Chalai Bazaar, Ramanathapuram - TNPCB",45
+357,Tamil Nadu,Salem,"Sona College of Technology, Salem - TNPCB",Insufficient data available in last 24 hours.
+358,Tamil Nadu,Thoothukudi,"Meelavittan, Thoothukudi - TNPCB",58
+359,Tamil Nadu,Tirupur,"Kumaran College, Tirupur - TNPCB",Insufficient data available in last 24 hours.
+360,Tamil Nadu,Vellore,"Vasanthapuram, Vellore - TNPCB",Insufficient data available in last 24 hours.
+361,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",134
+362,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",111
+363,Telangana,Hyderabad,"ECIL Kapra, Hyderabad - TSPCB",85
+364,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",Insufficient data available in last 24 hours.
+365,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",Insufficient data available in last 24 hours.
+366,Telangana,Hyderabad,"IITH Kandi, Hyderabad - TSPCB",72
+367,Telangana,Hyderabad,"Kokapet, Hyderabad - TSPCB",95
+368,Telangana,Hyderabad,"Kompally Municipal Office, Hyderabad - TSPCB",62
+369,Telangana,Hyderabad,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",74
+370,Telangana,Hyderabad,"New Malakpet, Hyderabad - TSPCB",95
+371,Telangana,Hyderabad,"Ramachandrapuram, Hyderabad - TSPCB",93
+372,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",121
+373,Telangana,Hyderabad,"Somajiguda, Hyderabad - TSPCB",77
+374,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",160
+375,Tripura,Agartala,"Bardowali, Agartala - Tripura SPCB",284
+376,Tripura,Agartala,"Kunjaban, Agartala - Tripura SPCB",58
+377,Uttar Pradesh,Agra,"Manoharpur, Agra - UPPCB",101
+378,Uttar Pradesh,Agra,"Rohta, Agra - UPPCB",Insufficient data available in last 24 hours.
+379,Uttar Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",101
+380,Uttar Pradesh,Agra,"Sector-3B Avas Vikas Colony, Agra - UPPCB",30
+381,Uttar Pradesh,Agra,"Shahjahan Garden, Agra - UPPCB",56
+382,Uttar Pradesh,Agra,"Shastripuram, Agra - UPPCB",24
+383,Uttar Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",Insufficient data available in last 24 hours.
+384,Uttar Pradesh,Baghpat,"Sardar Patel Inter College, Baghpat - UPPCB",258
+385,Uttar Pradesh,Bareilly,"Civil Lines, Bareilly - UPPCB",108
+386,Uttar Pradesh,Bareilly,"Rajendra Nagar, Bareilly - UPPCB",92
+387,Uttar Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",153
+388,Uttar Pradesh,Firozabad,"Nagla Bhau, Firozabad - UPPCB",67
+389,Uttar Pradesh,Firozabad,"Vibhab Nagar, Firozabad - UPPCB",112
+390,Uttar Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",186
+391,Uttar Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB",275
+392,Uttar Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",210
+393,Uttar Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",241
+394,Uttar Pradesh,Gorakhpur,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",132
+395,Uttar Pradesh,Greater Noida,"Knowledge Park - III, Greater Noida - UPPCB",266
+396,Uttar Pradesh,Greater Noida,"Knowledge Park - V, Greater Noida - UPPCB",268
+397,Uttar Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",82
+398,Uttar Pradesh,Jhansi,"Shivaji Nagar, Jhansi - UPPCB",83
+399,Uttar Pradesh,Kanpur,"FTI Kidwai Nagar, Kanpur - UPPCB",104
+400,Uttar Pradesh,Kanpur,"IITK, Kanpur - IITK",Insufficient data available in last 24 hours.
+401,Uttar Pradesh,Kanpur,"NSI Kalyanpur, Kanpur - UPPCB",125
+402,Uttar Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",182
+403,Uttar Pradesh,Khurja,"Kalindi Kunj, Khurja - UPPCB",115
+404,Uttar Pradesh,Lucknow,"B R Ambedkar University, Lucknow - UPPCB",131
+405,Uttar Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB",85
+406,Uttar Pradesh,Lucknow,"Kendriya Vidyalaya, Lucknow - CPCB",139
+407,Uttar Pradesh,Lucknow,"Kukrail Picnic Spot-1, Lucknow - UPPCB",100
+408,Uttar Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",Insufficient data available in last 24 hours.
+409,Uttar Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",285
+410,Uttar Pradesh,Meerut,"Ganga Nagar, Meerut - UPPCB",Insufficient data available in last 24 hours.
+411,Uttar Pradesh,Meerut,"Jai Bhim Nagar, Meerut - UPPCB",262
+412,Uttar Pradesh,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB",248
+413,Uttar Pradesh,Moradabad,"Buddhi Vihar, Moradabad - UPPCB",158
+414,Uttar Pradesh,Moradabad,"Eco Herbal Park, Moradabad - UPPCB",154
+415,Uttar Pradesh,Moradabad,"Employment Office, Moradabad - UPPCB",129
+416,Uttar Pradesh,Moradabad,"Jigar Colony, Moradabad - UPPCB",125
+417,Uttar Pradesh,Moradabad,"Kashiram Nagar, Moradabad - UPPCB",139
+418,Uttar Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",Insufficient data available in last 24 hours.
+419,Uttar Pradesh,Moradabad,"Transport Nagar, Moradabad - UPPCB",162
+420,Uttar Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",Insufficient data available in last 24 hours.
+421,Uttar Pradesh,Noida,"Sector - 125, Noida - UPPCB",300
+422,Uttar Pradesh,Noida,"Sector - 62, Noida - IMD",253
+423,Uttar Pradesh,Noida,"Sector-1, Noida - UPPCB",184
+424,Uttar Pradesh,Noida,"Sector-116, Noida - UPPCB",231
+425,Uttar Pradesh,Prayagraj,"Jhunsi, Prayagraj - UPPCB",118
+426,Uttar Pradesh,Prayagraj,"Motilal Nehru NIT, Prayagraj - UPPCB",98
+427,Uttar Pradesh,Prayagraj,"Nagar Nigam, Prayagraj - UPPCB",107
+428,Uttar Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",53
+429,Uttar Pradesh,Varanasi,"Bhelupur, Varanasi - UPPCB",133
+430,Uttar Pradesh,Varanasi,"IESD Banaras Hindu University, Varanasi - UPPCB",104
+431,Uttar Pradesh,Varanasi,"Maldahiya, Varanasi - UPPCB",113
+432,Uttar Pradesh,Vrindavan,"Omex Eternity, Vrindavan - UPPCB",111
+433,Uttarakhand,Dehradun,"Doon University, Dehradun - UKPCB",85
+434,Uttarakhand,Kashipur,"Govt. Girls Inter College, Kashipur - UKPCB",80
+435,Uttarakhand,Rishikesh,"Shivaji Nagar, Rishikesh - UKPCB",47
+436,West Bengal,Asansol,"Asansol Court Area, Asansol - WBPCB",176
+437,West Bengal,Durgapur,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",205
+438,West Bengal,Haldia,"Priyambada Housing Estate, Haldia - WBPCB",85
+439,West Bengal,Howrah,"Belur Math, Howrah - WBPCB",Insufficient data available in last 24 hours.
+440,West Bengal,Howrah,"Ghusuri, Howrah - WBPCB",129
+441,West Bengal,Howrah,"Padmapukur, Howrah - WBPCB",101
+442,West Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",76
+443,West Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB",90
+444,West Bengal,Kolkata,"Fort William, Kolkata - WBPCB",81
+445,West Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB",89
+446,West Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",113
+447,West Bengal,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",64
+448,West Bengal,Kolkata,"Victoria, Kolkata - WBPCB",83
+449,West Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",59
