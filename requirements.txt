@@ -1,4 +1,4 @@
-opencv-python>=4.1.1
+opencv-python
 absl-py==1.3.0
 altair==4.2.0
 asttokens==2.2.1
