@@ -1,4 +1,4 @@
-from turtle import colormode
+# from turtle import colormode
 from track import *
 import tempfile
 import cv2
