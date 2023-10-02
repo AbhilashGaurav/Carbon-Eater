@@ -2,7 +2,7 @@
 # Usage: pip install -r requirements.txt
 
 # Base ----------------------------------------
-
+gdown==4.6.0
 matplotlib>=3.2.2
 numpy>=1.18.5
 opencv_python==4.5.1.48
