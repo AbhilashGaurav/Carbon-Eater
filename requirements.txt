@@ -2,6 +2,7 @@
 # Usage: pip install -r requirements.txt
 
 # Base ----------------------------------------
+openpyxl==3.1.2
 pyFirmata==1.1.0
 plotly==5.17.0
 easydict==1.10
