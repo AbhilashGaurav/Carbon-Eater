@@ -2,6 +2,7 @@
 # Usage: pip install -r requirements.txt
 
 # Base ----------------------------------------
+plotly==5.17.0
 easydict==1.10
 gdown==4.6.0
 matplotlib>=3.2.2
