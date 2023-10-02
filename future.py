@@ -13,7 +13,7 @@ from PIL import Image
 # https://app.cpcbccr.com/AQI_India/ to downlaod the excel file
 
 import cv2
-from vidgear.gears import CamGear
+#from vidgear.gears import CamGear
 from pyfirmata import Arduino
 from pandas.api.types import (
     is_categorical_dtype,
