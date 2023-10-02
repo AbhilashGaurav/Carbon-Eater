@@ -2,6 +2,7 @@
 # Usage: pip install -r requirements.txt
 
 # Base ----------------------------------------
+pyFirmata==1.1.0
 plotly==5.17.0
 easydict==1.10
 gdown==4.6.0
